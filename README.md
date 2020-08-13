@@ -1,7 +1,7 @@
 # Lim Ah Seng
 ## Welcome to Github
 
-__Hello__ world! I am **Lim Ah Seng**, _student_ in [*Dunman High School*](https://www.dunmanhigh.moe.edu.sg).
+__Hello__ world! I am **Lim Ah Seng**, _student_ in ![*Dunman High School*](Lim Ah Seng.jpg).
 
 My hobbies 
 * eating
@@ -11,5 +11,3 @@ My hobbies
 My education 
 1. Lim Ah Seng Primary
 2. Dunman High School
-
-[Profile picture]
