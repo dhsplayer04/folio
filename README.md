@@ -8,6 +8,6 @@ My hobbies
 * sleeping
 * studying
 
-My Education 
+My education 
 1. Lim Ah Seng Primary
 2. Dunman High School
