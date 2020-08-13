@@ -12,4 +12,6 @@ My education
 1. Lim Ah Seng Primary
 2. Dunman High School
 
+![My profile pic](profile.jpg)
+
 
